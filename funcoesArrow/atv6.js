@@ -1,0 +1,1 @@
+let converterCelsiusParaFahrenheit = (celsius) => celsius * 1.8 + 32; console.log(converterCelsiusParaFahrenheit(38));
